@@ -1,0 +1,112 @@
+D:\Workspace - C#\RNA-miniprojet\RNA-miniprojet\bin\Debug\RNA-miniprojet.exe.config
+D:\Workspace - C#\RNA-miniprojet\RNA-miniprojet\bin\Debug\RNA-miniprojet.exe
+D:\Workspace - C#\RNA-miniprojet\RNA-miniprojet\bin\Debug\RNA-miniprojet.pdb
+D:\Workspace - C#\RNA-miniprojet\RNA-miniprojet\obj\Debug\RNA-miniprojet.csprojResolveAssemblyReference.cache
+D:\Workspace - C#\RNA-miniprojet\RNA-miniprojet\obj\Debug\RNA_miniprojet.Form1.resources
+D:\Workspace - C#\RNA-miniprojet\RNA-miniprojet\obj\Debug\RNA_miniprojet.Properties.Resources.resources
+D:\Workspace - C#\RNA-miniprojet\RNA-miniprojet\obj\Debug\RNA-miniprojet.csproj.GenerateResource.Cache
+D:\Workspace - C#\RNA-miniprojet\RNA-miniprojet\obj\Debug\RNA-miniprojet.exe
+D:\Workspace - C#\RNA-miniprojet\RNA-miniprojet\obj\Debug\RNA-miniprojet.pdb
+F:\C#vs2013\RnaTenaIzy\RNA-miniprojet\RNA-miniprojet\RNA-miniprojet\bin\Debug\RNA-miniprojet.exe.config
+F:\C#vs2013\RnaTenaIzy\RNA-miniprojet\RNA-miniprojet\RNA-miniprojet\obj\Debug\RNA-miniprojet.exe
+F:\C#vs2013\RnaTenaIzy\RNA-miniprojet\RNA-miniprojet\RNA-miniprojet\obj\Debug\RNA-miniprojet.pdb
+F:\C#vs2013\RnaTenaIzy\RNA-miniprojet\RNA-miniprojet\RNA-miniprojet\bin\Debug\RNA-miniprojet.exe
+F:\C#vs2013\RnaTenaIzy\RNA-miniprojet\RNA-miniprojet\RNA-miniprojet\bin\Debug\RNA-miniprojet.pdb
+F:\C#vs2013\RnaTenaIzy\RNA-miniprojet\RNA-miniprojet\RNA-miniprojet\obj\Debug\RNA_miniprojet.Form1.resources
+F:\C#vs2013\RnaTenaIzy\RNA-miniprojet\RNA-miniprojet\RNA-miniprojet\obj\Debug\RNA_miniprojet.Properties.Resources.resources
+F:\C#vs2013\RnaTenaIzy\RNA-miniprojet\RNA-miniprojet\RNA-miniprojet\obj\Debug\RNA-miniprojet.csproj.GenerateResource.Cache
+F:\C#vs2013\RnaTenaIzy\RNA-miniprojet\RNA-miniprojet\RNA-miniprojet\obj\Debug\RNA-miniprojet.csprojResolveAssemblyReference.cache
+F:\C#vs2013\RnaTenaIzy\RNA-miniprojet\RNA-miniprojet\RNA-miniprojet\obj\Debug\RNA-miniprojet.csproj.ResolveComReference.cache
+F:\C#vs2013\RNA-Ceomat\RNA-miniprojet\RNA-miniprojet\bin\Debug\RNA-miniprojet.exe.config
+F:\C#vs2013\RNA-Ceomat\RNA-miniprojet\RNA-miniprojet\obj\Debug\RNA-miniprojet.csproj.ResolveComReference.cache
+F:\C#vs2013\RNA-Ceomat\RNA-miniprojet\RNA-miniprojet\obj\Debug\RNA-miniprojet.exe
+F:\C#vs2013\RNA-Ceomat\RNA-miniprojet\RNA-miniprojet\obj\Debug\RNA-miniprojet.pdb
+F:\C#vs2013\RNA-Ceomat\RNA-miniprojet\RNA-miniprojet\bin\Debug\RNA-miniprojet.exe
+F:\C#vs2013\RNA-Ceomat\RNA-miniprojet\RNA-miniprojet\bin\Debug\RNA-miniprojet.pdb
+F:\C#vs2013\RNA-Ceomat\RNA-miniprojet\RNA-miniprojet\obj\Debug\RNA_miniprojet.Form1.resources
+F:\C#vs2013\RNA-Ceomat\RNA-miniprojet\RNA-miniprojet\obj\Debug\RNA_miniprojet.Properties.Resources.resources
+F:\C#vs2013\RNA-Ceomat\RNA-miniprojet\RNA-miniprojet\obj\Debug\RNA-miniprojet.csproj.GenerateResource.Cache
+E:\Projet\RNA-Ceomat\RNA-miniprojet\RNA-miniprojet\bin\Debug\RNA-miniprojet.exe.config
+E:\Projet\RNA-Ceomat\RNA-miniprojet\RNA-miniprojet\obj\Debug\RNA-miniprojet.csproj.ResolveComReference.cache
+E:\Projet\RNA-Ceomat\RNA-miniprojet\RNA-miniprojet\obj\Debug\RNA-miniprojet.exe
+E:\Projet\RNA-Ceomat\RNA-miniprojet\RNA-miniprojet\obj\Debug\RNA-miniprojet.pdb
+D:\INFORMATIQUE\Stage\RNA-Ceomat\RNA-miniprojet\RNA-miniprojet\bin\Debug\RNA-miniprojet.exe.config
+D:\INFORMATIQUE\Stage\RNA-Ceomat\RNA-miniprojet\RNA-miniprojet\obj\Debug\RNA-miniprojet.csproj.ResolveComReference.cache
+D:\INFORMATIQUE\Stage\RNA-Ceomat\RNA-miniprojet\RNA-miniprojet\obj\Debug\RNA-miniprojet.exe
+D:\INFORMATIQUE\Stage\RNA-Ceomat\RNA-miniprojet\RNA-miniprojet\obj\Debug\RNA-miniprojet.pdb
+D:\INFORMATIQUE\Stage\RNA-Ceomat\RNA-miniprojet\RNA-miniprojet\bin\Debug\RNA-miniprojet.exe
+D:\INFORMATIQUE\Stage\RNA-Ceomat\RNA-miniprojet\RNA-miniprojet\bin\Debug\RNA-miniprojet.pdb
+D:\INFORMATIQUE\Stage\RNA-Ceomat\RNA-miniprojet\RNA-miniprojet\obj\Debug\RNA-miniprojet.csprojResolveAssemblyReference.cache
+D:\INFORMATIQUE\Stage\RNA-Ceomat\RNA-miniprojet\RNA-miniprojet\obj\Debug\RNA_miniprojet.Form1.resources
+D:\INFORMATIQUE\Stage\RNA-Ceomat\RNA-miniprojet\RNA-miniprojet\obj\Debug\RNA_miniprojet.Properties.Resources.resources
+D:\INFORMATIQUE\Stage\RNA-Ceomat\RNA-miniprojet\RNA-miniprojet\obj\Debug\RNA-miniprojet.csproj.GenerateResource.Cache
+E:\Boss\4ème Année\RNA-miniprojet____\RNA-miniprojet\bin\Debug\RNA-miniprojet.exe.config
+E:\Boss\4ème Année\RNA-miniprojet____\RNA-miniprojet\obj\Debug\RNA-miniprojet.csproj.ResolveComReference.cache
+E:\Boss\4ème Année\RNA-miniprojet____\RNA-miniprojet\obj\Debug\RNA-miniprojet.exe
+E:\Boss\4ème Année\RNA-miniprojet____\RNA-miniprojet\obj\Debug\RNA-miniprojet.pdb
+E:\Boss\4ème Année\RNA-miniprojet____\RNA-miniprojet\bin\Debug\RNA-miniprojet.exe
+E:\Boss\4ème Année\RNA-miniprojet____\RNA-miniprojet\bin\Debug\RNA-miniprojet.pdb
+E:\Boss\4ème Année\RNA-miniprojet____\RNA-miniprojet\obj\Debug\RNA-miniprojet.csprojResolveAssemblyReference.cache
+E:\Boss\4ème Année\RNA-miniprojet____\RNA-miniprojet\obj\Debug\RNA_miniprojet.Form1.resources
+E:\Boss\4ème Année\RNA-miniprojet____\RNA-miniprojet\obj\Debug\RNA_miniprojet.Properties.Resources.resources
+E:\Boss\4ème Année\RNA-miniprojet____\RNA-miniprojet\obj\Debug\RNA-miniprojet.csproj.GenerateResource.Cache
+C:\Users\Nomentsoa\Desktop\RNA farany\RNA-miniprojet\bin\Debug\RNA-miniprojet.exe.config
+C:\Users\Nomentsoa\Desktop\RNA farany\RNA-miniprojet\obj\Debug\RNA-miniprojet.csproj.ResolveComReference.cache
+C:\Users\Nomentsoa\Desktop\RNA farany\RNA-miniprojet\obj\Debug\RNA-miniprojet.exe
+C:\Users\Nomentsoa\Desktop\RNA farany\RNA-miniprojet\obj\Debug\RNA-miniprojet.pdb
+C:\Users\Nomentsoa\Desktop\RNA farany\RNA-miniprojet\bin\Debug\RNA-miniprojet.exe
+C:\Users\Nomentsoa\Desktop\RNA farany\RNA-miniprojet\bin\Debug\RNA-miniprojet.pdb
+C:\Users\Nomentsoa\Desktop\RNA farany\RNA-miniprojet\obj\Debug\RNA-miniprojet.csprojResolveAssemblyReference.cache
+C:\Users\Nomentsoa\Desktop\RNA farany\RNA-miniprojet\obj\Debug\RNA_miniprojet.Form1.resources
+C:\Users\Nomentsoa\Desktop\RNA farany\RNA-miniprojet\obj\Debug\RNA_miniprojet.Properties.Resources.resources
+C:\Users\Nomentsoa\Desktop\RNA farany\RNA-miniprojet\obj\Debug\RNA-miniprojet.csproj.GenerateResource.Cache
+C:\Users\ASUS\Downloads\RNA-farany\RNA-miniprojet\bin\Debug\RNA-miniprojet.exe.config
+C:\Users\ASUS\Downloads\RNA-farany\RNA-miniprojet\obj\Debug\RNA-miniprojet.csproj.ResolveComReference.cache
+C:\Users\ASUS\Downloads\RNA-farany\RNA-miniprojet\obj\Debug\RNA-miniprojet.exe
+C:\Users\ASUS\Downloads\RNA-farany\RNA-miniprojet\obj\Debug\RNA-miniprojet.pdb
+C:\Users\ASUS\Downloads\RNA-farany\RNA-miniprojet\bin\Debug\RNA-miniprojet.exe
+C:\Users\ASUS\Downloads\RNA-farany\RNA-miniprojet\bin\Debug\RNA-miniprojet.pdb
+C:\Users\ASUS\Downloads\RNA-farany\RNA-miniprojet\obj\Debug\RNA-miniprojet.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Downloads\RNA-farany\RNA-miniprojet\obj\Debug\RNA_miniprojet.Form1.resources
+C:\Users\ASUS\Downloads\RNA-farany\RNA-miniprojet\obj\Debug\RNA_miniprojet.Properties.Resources.resources
+C:\Users\ASUS\Downloads\RNA-farany\RNA-miniprojet\obj\Debug\RNA-miniprojet.csproj.GenerateResource.Cache
+D:\Mini-projet final\RNA-ANDRIAMAHENINTSOA Ny Avotra\RNA-miniprojet\bin\Debug\RNA-miniprojet.exe.config
+D:\Mini-projet final\RNA-ANDRIAMAHENINTSOA Ny Avotra\RNA-miniprojet\obj\Debug\RNA-miniprojet.csproj.ResolveComReference.cache
+D:\Mini-projet final\RNA-ANDRIAMAHENINTSOA Ny Avotra\RNA-miniprojet\obj\Debug\RNA-miniprojet.exe
+D:\Mini-projet final\RNA-ANDRIAMAHENINTSOA Ny Avotra\RNA-miniprojet\obj\Debug\RNA-miniprojet.pdb
+D:\Mini-projet final\RNA-ANDRIAMAHENINTSOA Ny Avotra\RNA-miniprojet\bin\Debug\RNA-miniprojet.exe
+D:\Mini-projet final\RNA-ANDRIAMAHENINTSOA Ny Avotra\RNA-miniprojet\bin\Debug\RNA-miniprojet.pdb
+D:\Mini-projet final\RNA-ANDRIAMAHENINTSOA Ny Avotra\RNA-miniprojet\obj\Debug\RNA-miniprojet.csprojResolveAssemblyReference.cache
+D:\Mini-projet final\RNA-ANDRIAMAHENINTSOA Ny Avotra\RNA-miniprojet\obj\Debug\RNA_miniprojet.Form1.resources
+D:\Mini-projet final\RNA-ANDRIAMAHENINTSOA Ny Avotra\RNA-miniprojet\obj\Debug\RNA_miniprojet.Properties.Resources.resources
+D:\Mini-projet final\RNA-ANDRIAMAHENINTSOA Ny Avotra\RNA-miniprojet\obj\Debug\RNA-miniprojet.csproj.GenerateResource.Cache
+D:\Mini-projet final\ANDRIAMAHENINTSOA Ny Avotra N°06\Programmation et Code source\RNA-miniprojet\bin\Debug\RNA-miniprojet.exe.config
+D:\Mini-projet final\ANDRIAMAHENINTSOA Ny Avotra N°06\Programmation et Code source\RNA-miniprojet\obj\Debug\RNA-miniprojet.csproj.ResolveComReference.cache
+D:\Mini-projet final\ANDRIAMAHENINTSOA Ny Avotra N°06\Programmation et Code source\RNA-miniprojet\obj\Debug\RNA-miniprojet.exe
+D:\Mini-projet final\ANDRIAMAHENINTSOA Ny Avotra N°06\Programmation et Code source\RNA-miniprojet\obj\Debug\RNA-miniprojet.pdb
+C:\Users\lanja\OneDrive\Bureau\RASANDIMANANA Ny Hasina Lovasoa\Programmation et Code source\RNA-miniprojet\bin\Debug\RNA-miniprojet.exe.config
+C:\Users\lanja\OneDrive\Bureau\RASANDIMANANA Ny Hasina Lovasoa\Programmation et Code source\RNA-miniprojet\bin\Debug\RNA-miniprojet.exe
+C:\Users\lanja\OneDrive\Bureau\RASANDIMANANA Ny Hasina Lovasoa\Programmation et Code source\RNA-miniprojet\bin\Debug\RNA-miniprojet.pdb
+C:\Users\lanja\OneDrive\Bureau\RASANDIMANANA Ny Hasina Lovasoa\Programmation et Code source\RNA-miniprojet\obj\Debug\RNA-miniprojet.csproj.AssemblyReference.cache
+C:\Users\lanja\OneDrive\Bureau\RASANDIMANANA Ny Hasina Lovasoa\Programmation et Code source\RNA-miniprojet\obj\Debug\RNA-miniprojet.csproj.SuggestedBindingRedirects.cache
+C:\Users\lanja\OneDrive\Bureau\RASANDIMANANA Ny Hasina Lovasoa\Programmation et Code source\RNA-miniprojet\obj\Debug\RNA-miniprojet.csproj.ResolveComReference.cache
+C:\Users\lanja\OneDrive\Bureau\RASANDIMANANA Ny Hasina Lovasoa\Programmation et Code source\RNA-miniprojet\obj\Debug\RNA_miniprojet.Form1.resources
+C:\Users\lanja\OneDrive\Bureau\RASANDIMANANA Ny Hasina Lovasoa\Programmation et Code source\RNA-miniprojet\obj\Debug\RNA_miniprojet.Properties.Resources.resources
+C:\Users\lanja\OneDrive\Bureau\RASANDIMANANA Ny Hasina Lovasoa\Programmation et Code source\RNA-miniprojet\obj\Debug\RNA-miniprojet.csproj.GenerateResource.cache
+C:\Users\lanja\OneDrive\Bureau\RASANDIMANANA Ny Hasina Lovasoa\Programmation et Code source\RNA-miniprojet\obj\Debug\RNA-miniprojet.csproj.CoreCompileInputs.cache
+C:\Users\lanja\OneDrive\Bureau\RASANDIMANANA Ny Hasina Lovasoa\Programmation et Code source\RNA-miniprojet\obj\Debug\RNA-miniprojet.csproj.CopyComplete
+C:\Users\lanja\OneDrive\Bureau\RASANDIMANANA Ny Hasina Lovasoa\Programmation et Code source\RNA-miniprojet\obj\Debug\RNA-miniprojet.exe
+C:\Users\lanja\OneDrive\Bureau\RASANDIMANANA Ny Hasina Lovasoa\Programmation et Code source\RNA-miniprojet\obj\Debug\RNA-miniprojet.pdb
+C:\Users\ASUS\Desktop\PROJET RNA RAKOTONDRAIBE HENINTSOA IGGLIA N48\Programmation et Code source\RNA-miniprojet\bin\Debug\RNA-miniprojet.exe.config
+C:\Users\ASUS\Desktop\PROJET RNA RAKOTONDRAIBE HENINTSOA IGGLIA N48\Programmation et Code source\RNA-miniprojet\bin\Debug\RNA-miniprojet.exe
+C:\Users\ASUS\Desktop\PROJET RNA RAKOTONDRAIBE HENINTSOA IGGLIA N48\Programmation et Code source\RNA-miniprojet\bin\Debug\RNA-miniprojet.pdb
+C:\Users\ASUS\Desktop\PROJET RNA RAKOTONDRAIBE HENINTSOA IGGLIA N48\Programmation et Code source\RNA-miniprojet\obj\Debug\RNA-miniprojet.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\PROJET RNA RAKOTONDRAIBE HENINTSOA IGGLIA N48\Programmation et Code source\RNA-miniprojet\obj\Debug\RNA-miniprojet.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Desktop\PROJET RNA RAKOTONDRAIBE HENINTSOA IGGLIA N48\Programmation et Code source\RNA-miniprojet\obj\Debug\RNA-miniprojet.csproj.ResolveComReference.cache
+C:\Users\ASUS\Desktop\PROJET RNA RAKOTONDRAIBE HENINTSOA IGGLIA N48\Programmation et Code source\RNA-miniprojet\obj\Debug\RNA_miniprojet.Form1.resources
+C:\Users\ASUS\Desktop\PROJET RNA RAKOTONDRAIBE HENINTSOA IGGLIA N48\Programmation et Code source\RNA-miniprojet\obj\Debug\RNA_miniprojet.Properties.Resources.resources
+C:\Users\ASUS\Desktop\PROJET RNA RAKOTONDRAIBE HENINTSOA IGGLIA N48\Programmation et Code source\RNA-miniprojet\obj\Debug\RNA-miniprojet.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\PROJET RNA RAKOTONDRAIBE HENINTSOA IGGLIA N48\Programmation et Code source\RNA-miniprojet\obj\Debug\RNA-miniprojet.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\PROJET RNA RAKOTONDRAIBE HENINTSOA IGGLIA N48\Programmation et Code source\RNA-miniprojet\obj\Debug\RNA-miniprojet.csproj.CopyComplete
+C:\Users\ASUS\Desktop\PROJET RNA RAKOTONDRAIBE HENINTSOA IGGLIA N48\Programmation et Code source\RNA-miniprojet\obj\Debug\RNA-miniprojet.exe
+C:\Users\ASUS\Desktop\PROJET RNA RAKOTONDRAIBE HENINTSOA IGGLIA N48\Programmation et Code source\RNA-miniprojet\obj\Debug\RNA-miniprojet.pdb
